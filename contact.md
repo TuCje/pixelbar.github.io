@@ -18,7 +18,7 @@ Mailing List : Pixelbar has a mailinglist for general communication. You can sub
 
 ### Location
 
-Our Address is :
+Our Address is:
 
 Vierhavensstraat 56<br />
 3029 BG Rotterdam
